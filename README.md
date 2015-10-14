@@ -1,2 +1,2 @@
 # taggage.github.io
-webpage
+webpage for Taggage.com
